@@ -1,0 +1,15 @@
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\bin\Debug\net6.0\Task4.exe
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\bin\Debug\net6.0\Task4.dll
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\bin\Debug\net6.0\Task4.pdb
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.dll
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\refint\Task4.dll
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.pdb
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\Makarov\C#\Homework\lesson2\Tasks\Task4\obj\Debug\net6.0\ref\Task4.dll
